@@ -1,6 +1,7 @@
 {
   "name": "mfglabs-iconset",
-  "version": "0.01",
-  "description": "Clone of mfgLabs iconset with npm package",
-  "license": "opensource CC 3"
+  "homepage": "https://github.com/MfgLabs/mfglabs-iconset",
+  "description": "Awesome web font icon by MFG Labs",
+  "main": "css/mfglabs_iconset.css",
+  "license": "CC BY-SA"
 }
